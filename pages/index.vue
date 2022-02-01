@@ -153,7 +153,7 @@
       id="road-map"
       class="relative bg-gradient-to-r from-purple-500 to-blue-300"
     >
-      <div class="text-center mb-20">
+      <div class="text-center py-10 mb-20">
         <h1
           class="
             sm:text-5xl
@@ -278,7 +278,7 @@
         </h1>
         <div class="w-20 h-2 rounded-full bg-green-500 inline-flex"></div>
       </div>
-      <div class="container px-5 py-24 mx-auto">
+      <div class="container px-5 py-10 mx-auto">
         <div class="flex flex-wrap -m-4">
           <div class="p-4 md:w-1/3">
             <div
@@ -555,7 +555,7 @@
 
     <section id="faqs">
       <div class="font-sans container flex flex-col mx-auto pt-8">
-        <div class="text-center mb-20">
+        <div class="text-center py-10 mb-20">
           <h1
             class="
               sm:text-5xl
